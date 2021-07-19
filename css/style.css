@@ -1049,11 +1049,11 @@
 		left: 0;
 		line-height: 4.4em;
 		height: 6.1em;
-/* 		position: relative; */
-		position: fixed;
+		position: relative;
+/* 		position: fixed; */
 		text-transform: uppercase;
 		top: 0;
-		width: 100%;
+		width: 50%;
 		z-index: 10000;
 	}
 
@@ -1072,8 +1072,8 @@
 		#header .icons {
 			height: inherit;
 			line-height: inherit;
-/* 			position: absolute; */
-			position: fixed;
+			position: absolute;
+/* 			position: fixed; */
 			left: 4em;
 			/*display: none;*/
 			top: 1em;
@@ -1122,8 +1122,8 @@
 		#header nav {
 			height: inherit;
 			line-height: inherit;
-/* 			position: absolute; */
-			position: fixed;
+			position: absolute;
+/* 			position: fixed; */
 			right: 4em;
 			/*display: none;*/
 			top: 1em;
