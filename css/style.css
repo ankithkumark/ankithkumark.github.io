@@ -1049,8 +1049,8 @@
 		left: 0;
 		line-height: 4.4em;
 		height: 6.1em;
-		position: relative;
-/* 		position: fixed; */
+/* 		position: relative; */
+		position: fixed;
 		text-transform: uppercase;
 		top: 0;
 		width: 100%;
