@@ -280,7 +280,6 @@
 		position: relative;
 		margin: 0 0 1.5em 0;
 		text-transform: uppercase;
-		position: fixed;
 	}
 
 	header h2 + p {
@@ -1050,7 +1049,8 @@
 		left: 0;
 		line-height: 4.4em;
 		height: 6.1em;
-		position: relative;
+/* 		position: relative; */
+		position: fixed;
 		text-transform: uppercase;
 		top: 0;
 		width: 100%;
